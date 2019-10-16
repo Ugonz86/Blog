@@ -1,0 +1,26 @@
+.dayOne {
+  text-align: left;
+  background-color: #f1f1f1;
+  border-radius: 12px;
+  font-family: monospace;
+}
+.dayTwo {
+  text-align: right;
+  background-color: #f1f1f1;
+  border-radius: 12px;
+  font-style: italic;
+  font-family: serif;
+}
+.about {
+  text-align: center;
+  background-color: #f1f1f1;
+  border-radius: 12px;
+}
+h3 {
+  padding: 5px;
+  margin-bottom: -5px;
+}
+p {
+  padding: 5px;
+  margin-bottom: 10px;
+}
